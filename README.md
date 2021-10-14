@@ -18,12 +18,14 @@ If you go into your console and type npm install inquirer you should get the pac
 
 ## Usage
 With this file you will be able to generate markdown files easily with prompts.
+Here is a link to a video on a walkthrough of the video.
+[README Generator Walkthrough](https://drive.google.com/file/d/16xJCARbf5gOwQMNhJ3KiHjNilZsnuVit/view?usp=sharing)
 
 ## License
 This project is under the MIT license.
 
 ## Contribution
-Inquirer and Node
+Inquirer and Node.
 
 ## Test
 Going into the console and running node index.js you should be prompted and can create your own markdown file.
